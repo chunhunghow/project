@@ -1,1 +1,1 @@
-# project
+Machine Learning from scratch.
